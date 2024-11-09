@@ -1,4 +1,4 @@
-#  Hey, I'm Rania Kedri 🌸
+#   I'm Rania Kedri 🌸
 
 Welcome to my GitHub profile!  
 I’m a passionate **web developer** and **software enthusiast**,i'm currently exploring new horizons in  **data processing** and **NLP**.I enjoy learning, building, and contributing to projects that are both creative and impactful! 💻✨
@@ -43,13 +43,6 @@ A comprehensive **microservices architecture** built using **REST**, **GraphQL**
 - **gRPC** for high-performance remote procedure calls (RPC).
 - **Kafka** for reliable, distributed messaging and event-driven communication.
 
----
-
-## 📊 GitHub Stats 🌟
-
-![Rania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaniaKedri1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=gradient)
-
----
 
 ## 🌸 Let's Connect! 
 
